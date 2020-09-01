@@ -26,6 +26,15 @@
 	.about_content_area {
 		padding: 0 0 100px 0 !important;
 	}
+	.single-main-line{
+		background-color: transparent;
+	}
+	.small-text{
+		font-size: 3rem !important;
+	}
+	.main-bold{
+		font-size: 4rem !important;
+	}
 	.rs_pb_70{
 		padding-bottom: 70px !important;
 	}
@@ -70,7 +79,7 @@
 		font-size: 26px !important;
 	}
 	.banner_content h1{
-		font-size: 42px !important;
+		font-size: 37px !important;
 	}
 	.about_image{
 		text-align: center;
@@ -79,7 +88,33 @@
 		margin-top: 50px;
 		padding-left: 0 !important;
 	}
+	.single-main-line{
+		background-color: transparent;
+	}
+	.small-text{
+		font-size: 2rem !important;
+	}
+	.main-bold{
+		font-size: 4rem !important;
+	}
 	.single_blog{
 		margin-bottom: 30px;
+	}
+	.discover-main-img{
+		/* background-image: url(../images/blog/blog1.jpg); */
+		width: auto !important;
+		height: auto !important;
+		background-image: none !important;
+	}
+	.discover-right-img{
+		/* background-image: url(../images/man.png); */
+		width: auto !important;
+		height: auto !important;
+		background-image: none !important;
+	}
+	.discover-images{
+		display: flex;
+		align-items: center;
+		flex-direction: column!important;
 	}
 }

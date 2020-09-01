@@ -1,0 +1,57 @@
+.designs-main-section {
+    background-color: #000000;
+}
+
+.designs-main-section .design-images-container .design-images .image-container {
+    position: relative;
+    cursor: pointer;
+}
+
+.designs-main-section .design-images-container .design-images .image-container img {
+    margin: 10px 0;
+}
+
+.designs-main-section .design-images-container .design-images .image-container span {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: #ffffff;
+    font-weight: 700;
+    text-shadow: 1px 1px 2px #00000075;
+}
+
+.designs-main-section .design-images-container {
+    overflow-y: scroll;
+    height: 1000px;
+}
+
+/* width */
+.designs-main-section .design-images-container::-webkit-scrollbar {
+    width: 15px;
+}
+  
+/* Track */
+.designs-main-section .design-images-container::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.19);
+    border-radius: 12px;
+}
+   
+/* Handle */
+.designs-main-section .design-images-container::-webkit-scrollbar-thumb {
+    background: #9f9f9f; 
+    border-radius: 12px;
+}
+  
+/* Handle on hover */
+.designs-main-section .design-images-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.designs-main-section .design-container {
+    overflow-y: scroll;
+    height: 1000px;
+}
+
+.designs-main-section .design-container::-webkit-scrollbar {
+    display: none;
+}

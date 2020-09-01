@@ -1,0 +1,108 @@
+.photography-page-banner {
+    height: 650px;
+} 
+
+.photography-page-banner .display_table_cell {
+    background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/group-98@1x.png');
+    background-position: 100% 75%;
+    background-repeat: no-repeat;
+    background-size: auto 70%;
+}
+
+.photography-page-banner .display_table_cell .banner_content {
+    font-family: 'Josefin Sans',Helvetica,Arial,serif;
+}
+
+.photography-page-banner .display_table_cell .banner_content .sm_title:nth-child(1) {
+    font-size: 14px; 
+    font-weight: 700;
+}
+
+.photography-page-banner .display_table_cell .banner_content h1.cd-headline .fw_800 {
+    font-size: 36px; 
+    font-weight: 700; 
+    margin-top: 4px; 
+    font-family: 'Josefin Sans',Helvetica,Arial,serif;
+}
+
+.photography-page-banner .display_table_cell .banner_content .sm_title:nth-child(3) {
+    width: 60%; 
+    font-weight: 700; 
+    display: inline-block; 
+    line-height: 1.4;
+}
+
+.photography-page-banner .display_table_cell .insta-follow {
+    margin: 30px 0 50px; 
+    text-align: right;
+}
+
+.photography-page-banner .display_table_cell .insta-follow .follow-me-text {
+    font-family: 'Avenir',Helvetica,Arial,serif;
+    color: #ffffff;
+    font-size: 16px;
+    margin-right: 15px;
+    line-height: 10px;
+}
+.photography-page-banner .display_table_cell .insta-follow img {
+    width: 40px;
+}
+
+.insta-follow-section .display_table_cell {
+    padding-bottom: 5%; 
+    margin-top: 100px;
+}
+
+.insta-follow-section .display_table_cell .banner_content {
+    text-align: center; 
+    background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/bg-g@1x.png'); 
+    background-position: bottom; 
+    height: 650px; 
+    margin-top: 70px;
+    font-family: 'Josefin Sans',Helvetica,Arial,serif;
+}
+
+.insta-follow-section .display_table_cell .banner_content .cd-headline {
+    color: #ffffff; 
+    margin-bottom: 20px;
+}
+
+.insta-follow-section .display_table_cell .banner_content .cd-headline .fw_800{
+    font-size: 65px; 
+    font-weight: 700;
+}
+
+.insta-follow-section .display_table_cell .banner_content .sm_title {
+    font-size: 17px; 
+    display: inline-block; 
+    line-height: 1.4; 
+    color: #ffffff;
+}
+
+.insta-follow-section .display_table_cell .banner_content .insta-follow-link {
+    height: 70px;
+    width: 313px;
+    position: relative;
+    border-radius: 18px;
+    display: block;
+    border: 1px solid #707070;
+    margin: 30px auto 0;
+}
+
+.insta-follow-section .display_table_cell .banner_content .insta-follow-link img {
+    position: absolute;
+    width: 40px;
+    left: 10%;
+    top: 18%;
+}
+
+.insta-follow-section .display_table_cell .banner_content .insta-follow-link span {
+    position: absolute;
+    top: 36%;
+    left: 29%;
+    font-weight: 700;
+    font-size: 17.0px;
+    color: #fafafa;
+    letter-spacing: -.22px;
+    line-height: 18px;
+}
