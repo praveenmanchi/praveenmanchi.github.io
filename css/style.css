@@ -1931,9 +1931,9 @@ body  {
 
 .pokemon__img {
 	position: absolute;
-	bottom: 35px;
+	bottom: 15px;
 	right: 10%;
-	max-height: 400px;
+	max-height: 500px;
 	opacity: 1;
 	transform: translate3d(0,0,0);
 	transition: opacity 0.43s 0.6s, transform 0.4s 0.65s cubic-bezier(0, 0.88, 0.4, 0.93);
