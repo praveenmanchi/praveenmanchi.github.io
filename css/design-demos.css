@@ -55,3 +55,11 @@
 .designs-main-section .design-container::-webkit-scrollbar {
     display: none;
 }
+
+.designs-main-section .design-container img{
+    display:none;
+}
+
+.designs-main-section .design-container .active{
+    display: block;
+}

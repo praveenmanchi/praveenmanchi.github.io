@@ -540,10 +540,9 @@ position: absolute;
 }
 .display_table_cell{
 	display: table-cell;
-    vertical-align: middle;
+  vertical-align: middle;
 }
 .banner_content .sm_title {
-    color: #000;
     font-size: 22px;
     font-weight: 600;
 }
@@ -698,8 +697,55 @@ position: absolute;
     [ End Banner ]
 -----------------------------------------------------------------*/
 
+/* ----------------------------------------------------------------
+    [ start Moto I do everything with passion ]
+-----------------------------------------------------------------*/
+#b{
+  width:95%;
+  margin:auto;
+  
+}
 
+.moto{
+  width:20%;
+  transform: rotateZ(-360deg);
+  opacity: 0.6;
+  z-index: -1;
+  float: left;
 
+}
+
+.moto_content_logo{
+  
+}
+
+.clearfix{
+  clear: both;
+}
+
+.b{
+  width: 35%;
+  float: right;
+}
+
+.moto_heading{
+  width: 65%;
+  position: relative;
+  min-height: 489px;
+}
+.passion{
+  position: absolute;
+  top:60%;
+  float: left;
+  transform: translateY(-60%);
+}
+
+.passion1{
+  position: absolute;
+  top:30%;
+  float: left;
+  transform: translateY(-30%);
+}
 /* ----------------------------------------------------------------
     [ 05 Start About ]
 -----------------------------------------------------------------*/
@@ -707,6 +753,9 @@ position: absolute;
     font-size: 18px;
     margin-top: 0;
     font-weight: 500;
+}
+.dark_bg_1{
+  margin-bottom: 20px;
 }
 .dark_bg_1 .about_content_area h5{
 	color: #fff;
@@ -1617,7 +1666,7 @@ position: absolute;
   }
   
    .accrodian-item-3 {
-    background-image: url("https://images.unsplash.com/photo-1503631285924-e1544dce8b28?auto=format&fit=crop&w=1234&q=80");
+    background-image: url("./../images/new_images/Bechance.png");
   }
   
    .accrodian-item-4 {
@@ -2813,4 +2862,5 @@ float:left;
   color:#ff0000;
   animation: youtubeAnim 1000ms linear infinite;
 float:right;
-footer  */
+}
+
