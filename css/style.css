@@ -1492,19 +1492,6 @@ position: absolute;
     /* font-size: 7rem; */
     font-size: 81.0px;
 }
-
-.about-background-image{
-    background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/fxllfvcl@1x.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: right;
-}
-
-.discover-main-img{
-    background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/screenshot-2020-07-05-at-3-01-27-pm@1x.png');
-    /* width: 800px; */
-    height: 530px;
-}
 .discover-right-img{
     /* background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/home-screen@1x.png'); */
     background-color: #ffebcb;
@@ -1658,11 +1645,11 @@ position: absolute;
   }
   
    .accrodian-item-1 {
-    background-image: url("https://images.unsplash.com/photo-1499198116522-4a6235013d63?auto=format&fit=crop&w=1233&q=80");
+    background-image: url("./../images/new_images/Codepen.png");
   }
   
    .accrodian-item-2 {
-    background-image: url("https://images.unsplash.com/photo-1492760864391-753aaae87234?auto=format&fit=crop&w=1336&q=80");
+    background-image: url("./../images/new_images/Dribble.png");
   }
   
    .accrodian-item-3 {
@@ -1670,11 +1657,11 @@ position: absolute;
   }
   
    .accrodian-item-4 {
-    background-image: url("https://images.unsplash.com/photo-1510425463958-dcced28da480?auto=format&fit=crop&w=1352&q=80");
+    background-image: url("./../images/new_images/GitHub.png");
   }
   
    .accrodian-item-5 {
-    background-image: url("https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=1234&q=80");
+    background-image: url("./../images/new_images/Kenyons.png");
   }
 
   /* accordian-gallery-end */
