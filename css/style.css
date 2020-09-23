@@ -1509,8 +1509,8 @@ position: absolute;
     background-color: transparent;
     color: #fff;
     border: 1px solid #fff;
-    border-radius: 2rem;
-    padding: 6px 30px;
+    border-radius: 1rem;
+    padding: 10px 30px;
     font-size: 1.5rem;
 }
 .ux-design-view-btn:hover{
@@ -1559,7 +1559,7 @@ position: absolute;
     color: #fff;
     border: 1px solid #ddd;
     border-radius: 2rem;
-    padding: 5px 49px;
+    padding: 10px 49px;
     background-color: transparent;
     font-size: 3rem;
     font-weight: 700;
