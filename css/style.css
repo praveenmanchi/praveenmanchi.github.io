@@ -1645,23 +1645,23 @@ position: absolute;
   }
   
    .accrodian-item-1 {
-    background-image: url("./../images/new_images/Codepen.jpg");
+    background-image: url("./../images/new_images/Codepen.svg");
   }
   
    .accrodian-item-2 {
-    background-image: url("./../images/new_images/Dribble.jpg");
+    background-image: url("./../images/new_images/Dribble.svg");
   }
   
    .accrodian-item-3 {
-    background-image: url("./../images/new_images/Bechance.jpg");
+    background-image: url("./../images/new_images/Bechance.svg");
   }
   
    .accrodian-item-4 {
-    background-image: url("./../images/new_images/GitHub.jpg");
+    background-image: url("./../images/new_images/GitHub.svg");
   }
   
    .accrodian-item-5 {
-    background-image: url("./../images/new_images/Kenyons.jpg");
+    background-image: url("./../images/new_images/Kenyons.svg");
   }
 
   /* accordian-gallery-end */
