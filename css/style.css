@@ -1587,7 +1587,7 @@ position: absolute;
 }
 
 .explore_section{
-	background: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/screen-shot-2020-08-09-at-5-42-01-pm@1x.png');
+	background: url('../images/lyt\ bg.png');
 	position: relative;
     background-size: cover;
     background-attachment: fixed;
@@ -1611,7 +1611,7 @@ position: absolute;
 }
 
 .creative-background-image{
-    background-image: url('https://anima-uploads.s3.amazonaws.com/projects/5ee444743e7ba21d73d4327a/releases/5f316ca014a1858adbdbf1d3/img/bwb-wireframe-sketch@1x.png');
+    background-image: url('../images/bg-d.png');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 452px 0;
@@ -1645,23 +1645,23 @@ position: absolute;
   }
   
    .accrodian-item-1 {
-    background-image: url("./../images/new_images/Codepen.svg");
+    background-image: url("./../images/M/Codepen.svg");
   }
   
    .accrodian-item-2 {
-    background-image: url("./../images/new_images/Dribble.svg");
+    background-image: url("./../images/M/Bechance.svg");
   }
   
    .accrodian-item-3 {
-    background-image: url("./../images/new_images/Bechance.svg");
+    background-image: url("./../images/M/Dribble.svg");
   }
   
    .accrodian-item-4 {
-    background-image: url("./../images/new_images/GitHub.svg");
+    background-image: url("./../images/M/GitHub.svg");
   }
   
    .accrodian-item-5 {
-    background-image: url("./../images/new_images/Kenyons.svg");
+    background-image: url("./../images/M/Kenyons.svg");
   }
 
   /* accordian-gallery-end */
